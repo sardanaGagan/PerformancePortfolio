@@ -1,4 +1,5 @@
 # PerformancePortfolio
+The purpose of this is to conduct a comprehensive analysis of a athlete
 
 **Introduction:** Provided an overview of an athlete and their significance in the sports world.  
 **Informative Metrics:** Identify and explanation of the metrics used to analyse athletes.  
